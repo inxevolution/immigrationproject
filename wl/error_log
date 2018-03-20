@@ -1,0 +1,9 @@
+[16-Dec-2017 18:20:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/migrationproject/public_html/venue/wl/index.php on line 16
+[18-Dec-2017 15:06:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/migrationproject/public_html/venue/wl/logout.php on line 10
+[18-Dec-2017 15:06:53 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/migrationproject/public_html/venue/wl/logout.php on line 10
+[18-Dec-2017 15:08:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/migrationproject/public_html/venue/wl/logout.php on line 10
+[18-Dec-2017 15:08:14 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/migrationproject/public_html/venue/wl/logout.php on line 10
+[18-Dec-2017 16:04:59 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/migrationproject/public_html/venue/wl/index.php on line 340
+[18-Dec-2017 16:05:56 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/migrationproject/public_html/venue/wl/index.php on line 340
+[18-Dec-2017 18:41:33 UTC] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/migrationproject/public_html/venue/wl/index.php on line 216
+[18-Dec-2017 18:41:52 UTC] PHP Parse error:  syntax error, unexpected '$registo_user' (T_VARIABLE) in /home/migrationproject/public_html/venue/wl/index.php on line 216
